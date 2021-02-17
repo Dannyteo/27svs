@@ -1,4 +1,0 @@
-This is a test.
-I want to master Git and Github
-I add a new line to learn commit.
-Add another new line.
